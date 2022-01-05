@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "this is a node server for our iChat application",
+  "main": "index.js",
+  "scripts": {
+    "node": "index.js"
+  },
+  "author": "Hardik",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0"
+  }
+}
